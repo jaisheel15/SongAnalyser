@@ -6,3 +6,4 @@ torch
 transformers
 soundfile
 scipy
+gunicorn
